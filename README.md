@@ -5,6 +5,7 @@
 
 - (void)initEaseMobSDKWithApplication:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+
 #warning 初始化环信SDK，详细内容在AppDelegate+EaseMob.m 文件中
 #warning SDK注册 APNS文件的名字, 需要与后台上传证书时的名字一一对应
     NSString *apnsCertName = nil;
@@ -15,7 +16,9 @@
 #endif
     //这里您需要在环信后台获取自己的appkey，并且项目中有用到联系客服，您可以设置您的客服IM服务号
     [self easemobApplication:application didFinishLaunchingWithOptions:launchOptions appkey:@"写自己的环信appkey" apnsCertName:apnsCertName otherConfig:@{kSDKConfigEnableConsoleLogger:[NSNumber numberWithBool:YES]}];
+    
 }
 
-//客服IM服务号，查看环信的移动客服文档，获取IM服务号
-#define CustomerImUsername @"填写自己IM服务号"
+ //客服IM服务号，查看环信的移动客服文档，获取IM服务号
+ #define CustomerImUsername @"填写自己IM服务号"
+
