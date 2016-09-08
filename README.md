@@ -1,0 +1,2 @@
+# DJHChatUI
+基于环信即时通讯写的聊天界面UI，代码考虑到了聊天界面的扩展，可按需自定义自己的MessageContentView，增加DJHMessageBodyType类型，即可加入自定义的聊天泡泡
