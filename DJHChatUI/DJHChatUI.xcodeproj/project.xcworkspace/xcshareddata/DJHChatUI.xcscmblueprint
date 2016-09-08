@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b648be02-00bf-4852-945d-6b35007b6e84++8262" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b648be02-00bf-4852-945d-6b35007b6e84++8262" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A14D683-FEBC-42F1-AF4F-109659E49A82",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b648be02-00bf-4852-945d-6b35007b6e84++8262" : "DJHChatUI_SVN\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DJHChatUI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DJHChatUI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.80.84.6",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b648be02-00bf-4852-945d-6b35007b6e84++8262"
+    }
+  ]
+}
