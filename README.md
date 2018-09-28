@@ -3,7 +3,6 @@ DJHChatUI基于环信即时通讯写的聊天界面UI，代码考虑到了聊天
 
  ![image](https://github.com/DuanJiaHuan/DJHChatUI/blob/master/8C932C3529D7443984AA852BE47566DD.png)
  ![image](https://github.com/DuanJiaHuan/DJHChatUI/blob/master/AAD1CED3E6C06C2F650783A1D0421049.png)
- ![image](https://github.com/DuanJiaHuan/DJHChatUI/blob/master/2.png)
 
 
 需自己添加环信即时通讯SDK到DJHChatUI/DJHChatUI/Vendors/HyphenateSDK目录下
