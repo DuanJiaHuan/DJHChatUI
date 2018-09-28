@@ -1,9 +1,8 @@
 ## DJHChatUI
 DJHChatUI基于环信即时通讯写的聊天界面UI，代码考虑到了聊天界面的扩展，可按需自定义自己的MessageContentView，增加DJHMessageBodyType类型，即可加入自定义的聊天泡泡
 
-<img src="https://github.com/DuanJiaHuan/DJHChatUI/blob/master/8C932C3529D7443984AA852BE47566DD.png" width="375">
-<img src="https://github.com/DuanJiaHuan/DJHChatUI/blob/master/8C932C3529D7443984AA852BE47566DD.png" width="375">
- ![image](https://github.com/DuanJiaHuan/DJHChatUI/blob/master/AAD1CED3E6C06C2F650783A1D0421049.png)
+<img src="https://github.com/DuanJiaHuan/DJHChatUI/blob/master/8C932C3529D7443984AA852BE47566DD.png" width="320">
+<img src="https://github.com/DuanJiaHuan/DJHChatUI/blob/master/AAD1CED3E6C06C2F650783A1D0421049.png" width="320">
 
 
 需自己添加环信即时通讯SDK到DJHChatUI/DJHChatUI/Vendors/HyphenateSDK目录下
